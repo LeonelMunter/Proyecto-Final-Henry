@@ -28,7 +28,7 @@ Description of this project, its purpose, and what you learned from it.
 
 ## Get in Touch
 
-- 📫 You can reach me at [Gmail](leonelmunter@gmail.com)
+- 📫 You can reach me at [leonelmunter@gmail.com](mailto:leonelmunter@gmail.com)
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonelmunter/)
 - 🐦 Follow me on [Twitter](https://twitter.com/leonelmunter)
 
